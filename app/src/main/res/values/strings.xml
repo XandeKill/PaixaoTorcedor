@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">coracao de torcedor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_segunda_tela">segunda_tela</string>
+    <string name="title_activity_terceira_tela">terceira_tela</string>
+</resources>
